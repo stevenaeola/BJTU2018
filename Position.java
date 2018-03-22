@@ -1,4 +1,7 @@
-
+/**
+ * What a fanstastic class
+ * @author s.p.bradley@durham.ac.uk
+ **/
 public class Position
 {
     private int x;
